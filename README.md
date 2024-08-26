@@ -20,3 +20,5 @@ This project was inspired by the Udacity Data Analyst Nanodegree program. Specia
 - [Udacity GitHub repository](https://github.com/udacity/pdsnd_github)
 - [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
+
+# Documentation Improvements
