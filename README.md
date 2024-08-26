@@ -22,3 +22,4 @@ This project was inspired by the Udacity Data Analyst Nanodegree program. Specia
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 # Documentation Improvements
+# Refactoring Updates
